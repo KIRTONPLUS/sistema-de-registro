@@ -24,7 +24,11 @@ Este sistema de registro permite unificar los cambios de los proyectos para que 
 
 ## 🛠️ Abre y ejecuta el proyecto
 
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+<p>
+Para ejecutar el sistema, debes digitar:
+
+```npm install react```
+</p>
 
 ## ✔️ Tecnologías utilizadas
 
@@ -34,7 +38,7 @@ Este sistema de registro permite unificar los cambios de los proyectos para que 
 
 ## Autores
 
-<img src="https://github.com/KIRTONPLUS/sistema-de-registro/assets/111469734/3af54552-0f8d-4682-a25a-13eeab08986a" width=130><br><sub>Gerhardt Kirton Méndez</sub>
+<img src="https://github.com/KIRTONPLUS/sistema-de-registro/assets/111469734/2422b40a-f759-496f-99c8-fd485b4f50f8" width=130><br><sub>Gerhardt Kirton Méndez</sub>
 
 ## Licencia
 
